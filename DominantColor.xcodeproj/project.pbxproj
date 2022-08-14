@@ -237,7 +237,7 @@
 				898845D41A490CE000003EF2 /* Supporting Files */,
 			);
 			name = iOS;
-			path = "DominantColor-iOS";
+			path = DominantColor/iOS;
 			sourceTree = "<group>";
 		};
 		898845D41A490CE000003EF2 /* Supporting Files */ = {
